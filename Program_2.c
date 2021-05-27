@@ -19,5 +19,15 @@ int main()
    //Read the array elements using for loop and scanf statment
    //Copy the elements of array 'a'[first array] to  array 'b'[second array] using for loop
    //Print the both array elements in using printf statement in the above specified format
-   return 0; 
+   int arr1[100], arr[100];
+   int i, n;
+   printf("\n\nCopy the elements one array into another array :\n");
+   printf("----------------------------------------------------\n");
+   printf("Input the number of elements to be stored in the array :");
+   scanf("%d",&n);
+   printf("Input %d elements in the array :\n",n);
+   for(i=0;i<n;i++;)
+   {
+     printf("elementd")
+   } 
 }
